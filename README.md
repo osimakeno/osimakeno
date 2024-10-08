@@ -1,3 +1,5 @@
+# Hello! 👋
+
 ![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/64d91155-ee7f-486e-aa0f-591d2d890cd2)
 
 Hello, I'm Keno. Data Analyst with expertise in data analysis, reporting, query optimization, and database management.
@@ -8,6 +10,7 @@ Hello, I'm Keno. Data Analyst with expertise in data analysis, reporting, query 
 - Data analysis and reporting using Google Sheets and Excel.
   
 📚 **Projects**
+
 You can find my portfolio projects HERE
 
 🛠️ **Tools**
