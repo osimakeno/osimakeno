@@ -11,7 +11,7 @@ Hello, I'm Keno. Data Analyst with expertise in data analysis, reporting, query 
   
 📚 **Projects**
 
-You can find my portfolio projects HERE
+You can find my portfolio projects [HERE](https://github.com/osimakeno/Portfolio-Guide/blob/main/README.md)
 
 🛠️ **Tools**
 - Language: SQL, Python
