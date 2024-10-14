@@ -1,6 +1,7 @@
 # Hello! 👋
 
-![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/64d91155-ee7f-486e-aa0f-591d2d890cd2)
+![White Minimalist Profile LinkedIn Banner-2](https://github.com/user-attachments/assets/41716727-c94e-4893-8113-0daa83a85878)
+
 
 Hello, I'm Keno. Data Analyst with expertise in data analysis, reporting, query optimization, and database management.
 
