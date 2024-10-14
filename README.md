@@ -22,3 +22,8 @@ You can find my portfolio projects [HERE](https://github.com/osimakeno/Portfolio
 
 👋🏻 **Connect with Me**
 - [LinkedIn](www.linkedin.com/in/osimakeno)
+
+
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=osimakeno)
+
